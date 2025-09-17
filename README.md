@@ -56,7 +56,7 @@ CREATE TABLE `books`
 
 🚀 1. Run from Your IDE (IntelliJ, VS Code, Eclipse)
 If your main class is annotated with @SpringBootApplication, just:
-- Right-click the class (e.g. BookApplication.java)
+- Right-click the class (e.g. BookApiApplication.java)
 - Select Run 'BookApiApplication'
   This launches the embedded server (usually Tomcat) and starts your app.
 
