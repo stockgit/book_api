@@ -39,7 +39,6 @@ CREATE TABLE `books`
 
 ## Features
 
-- Book Features:
  - Get all books.
  - Save book
 
